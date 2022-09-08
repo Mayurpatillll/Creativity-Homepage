@@ -3,7 +3,7 @@
 
 ## Project Image 
 
-![Creativity Homepage](https://ibb.co/2thDm09"><img src="https://i.ibb.co/C78kNpc/screencapture-file-C-Users-mayur-Desktop-INeuron-Web-Deve-ALL-Projects-ZIP-File-Project14-Creativity.png)
+![Creativity Homepage](https://i.ibb.co/C78kNpc/screencapture-file-C-Users-mayur-Desktop-INeuron-Web-Deve-ALL-Projects-ZIP-File-Project14-Creativity.png)
 
 ## Made by 
 
